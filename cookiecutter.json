@@ -1,4 +1,5 @@
 {
 	"repo_name": "Repo Name to be created",
-	"team_name": "Team name in EJ Org"
+	"team_name": "Team name in EJ Org",
+	"apm_number": "APM Number for Application"
 }
